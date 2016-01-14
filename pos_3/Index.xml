@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<items>
+
+<user>USER004</user>
+
+<goods type="goods">
+    <barcode>ITEM000000</barcode>
+    <barcode>ITEM000000</barcode>
+    <barcode>ITEM000000</barcode>
+    <barcode>ITEM000001</barcode>
+    <barcode>ITEM000002</barcode>
+    <barcode>ITEM000002</barcode>
+    <barcode>ITEM000002</barcode>
+</goods>
+
+</items>
